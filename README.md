@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=given-woo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=닉값하는%20개발자가%20되자&descAlignY=51&descAlign=62&theme=default)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=given-woo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=집가고싶다&descAlignY=51&descAlign=62&theme=default)
